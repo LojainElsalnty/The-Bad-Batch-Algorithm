@@ -15,3 +15,44 @@
 
 
 -May the Force be with them!
+
+-The Bad Batch managed to broadcast a message to all their trusted allies on the planets asking them to inform the Bad Batch of the fuel litres they can provide when they land on their planets. Now that the Bad Batch knows the amount of fuel each planet can provide and how much they require for their journey, they need to design:
+
+
+a) A Divide and Conquer algorithm that will tell them whether they can reach Naboo with the amount of fuel that their allies will provide.
+Sample Input/Output
+    
+ fuel=[2,3,1,1,4]
+     Output: true
+
+
+     fuel=[3,2,1,0,4]
+     Output: false
+
+
+
+b) A Greedy algorithm that does the same thing and runs in O(n).
+ fuel=[2,3,1,1,4]
+     Output: true
+
+
+     fuel=[3,2,1,0,4]
+     Output: false
+
+c) Design a Dynamic programming algorithm that outputs the minimum number of planets the Bad Batch needs to land on and fuel to reach Naboo. The algorithm should run in O(n2).
+Sample Input/Output
+
+
+     fuel=[2,3,1,1,4]
+     Output DP: 2
+     Output path: {0,1,4}
+
+
+d) Reconsruct a path that leads to Naboo with that minimum number of landings. The algorithm should run in O(n2).
+
+Sample Input/Output
+
+
+     fuel=[2,3,1,1,4]
+     Output DP: 2
+     Output path: {0,1,4}
