@@ -32,8 +32,8 @@ Sample Input/Output
 
 
 
-b) A Greedy algorithm that does the same thing and runs in O(n).
- Sample Input/Output
+b) A Greedy algorithm that does the same thing and runs in O(n). 
+Sample Input/Output
 
 
      fuel=[2,3,1,1,4]
@@ -52,7 +52,6 @@ Sample Input/Output
 
 
 d) Reconsruct a path that leads to Naboo with that minimum number of landings. The algorithm should run in O(n2).
-
 Sample Input/Output
 
 
