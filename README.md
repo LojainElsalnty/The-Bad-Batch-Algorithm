@@ -33,6 +33,8 @@ Sample Input/Output
 
 
 b) A Greedy algorithm that does the same thing and runs in O(n). 
+
+
 Sample Input/Output
 
 
@@ -43,6 +45,8 @@ Sample Input/Output
      fuel=[3,2,1,0,4]
      Output: false
 c) Design a Dynamic programming algorithm that outputs the minimum number of planets the Bad Batch needs to land on and fuel to reach Naboo. The algorithm should run in O(n2).
+
+
 Sample Input/Output
 
 
@@ -52,6 +56,8 @@ Sample Input/Output
 
 
 d) Reconsruct a path that leads to Naboo with that minimum number of landings. The algorithm should run in O(n2).
+
+
 Sample Input/Output
 
 
