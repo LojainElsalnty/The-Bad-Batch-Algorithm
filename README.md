@@ -21,8 +21,9 @@
 
 a) A Divide and Conquer algorithm that will tell them whether they can reach Naboo with the amount of fuel that their allies will provide.
 Sample Input/Output
-    
- fuel=[2,3,1,1,4]
+
+
+     fuel=[2,3,1,1,4]
      Output: true
 
 
@@ -32,13 +33,15 @@ Sample Input/Output
 
 
 b) A Greedy algorithm that does the same thing and runs in O(n).
- fuel=[2,3,1,1,4]
+ Sample Input/Output
+
+
+     fuel=[2,3,1,1,4]
      Output: true
 
 
      fuel=[3,2,1,0,4]
      Output: false
-
 c) Design a Dynamic programming algorithm that outputs the minimum number of planets the Bad Batch needs to land on and fuel to reach Naboo. The algorithm should run in O(n2).
 Sample Input/Output
 
